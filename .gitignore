@@ -1,0 +1,4 @@
+.env
+env
+*google_service_account.json
+*.json
