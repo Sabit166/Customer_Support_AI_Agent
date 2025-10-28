@@ -2,3 +2,5 @@
 env
 *google_service_account.json
 *.json
+.vscode
+sample_inputs
