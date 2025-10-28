@@ -136,12 +136,6 @@ GOOGLE_SHEETS_CREDENTIALS_PATH="google_service_account.json"
 GOOGLE_SHEET_ID="your-sheet-id"
 GOOGLE_SHEET_NAME="Customer Support Complaints"
 
-# MySQL Database (for conversation persistence)
-MYSQL_HOST="localhost"
-MYSQL_DATABASE="customer_support_ai"
-MYSQL_USER="root"
-MYSQL_PASSWORD="your-password"
-MYSQL_PORT="3306"
 ```
 
 ## 🎯 Usage Examples
